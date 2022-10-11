@@ -1,0 +1,6 @@
+/*!
+ * @project        @papillonbits/amazing-core-microsite
+ * @name           runtime.07fe93cd5da832ff201d.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2022 MTS
+ */
