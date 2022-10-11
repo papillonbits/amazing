@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Navigator /> Render must match regular 1`] = `
+<div>
+  <div
+    class="navigator"
+  >
+    <div
+      class="navigatorHeading Subhead"
+    >
+      <div
+        class="Subhead-heading"
+      />
+    </div>
+    <div
+      class="tabnav"
+    >
+      <nav
+        aria-label="List Shows"
+        class="tabnav-tabs"
+      >
+        <a
+          class="tabnav-tab"
+          href="/list"
+        >
+          List Shows
+        </a>
+        <a
+          aria-current="page"
+          class="tabnav-tab"
+          href="/info"
+        >
+          Info Shows
+        </a>
+      </nav>
+    </div>
+    <div
+      class="navigatorHeading Subhead"
+    >
+      <div
+        class="Subhead-heading"
+      />
+    </div>
+  </div>
+</div>
+`;
