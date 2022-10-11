@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InfoShowTemplate /> Render must match regular() 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            classname="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentColor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+    <div
+      class="navigator"
+    >
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          List Shows
+        </div>
+      </div>
+      <div
+        class="tabnav"
+      >
+        <nav
+          aria-label="List Shows"
+          class="tabnav-tabs"
+        >
+          <a
+            class="tabnav-tab"
+            href="/list"
+          >
+            List Shows
+          </a>
+          <a
+            aria-current="page"
+            class="tabnav-tab"
+            href="/info"
+          >
+            Info Shows
+          </a>
+        </nav>
+      </div>
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          Info Shows
+        </div>
+      </div>
+    </div>
+    <div
+      class="content"
+    >
+      <div
+        class="contentDisplay"
+      >
+        <div
+          class="contentDisplayEdit"
+        >
+          <div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Name"
+              >
+                Name
+              </span>
+              <input
+                aria-label="Type in a name"
+                class="contentDisplayEditFieldInput form-control"
+                type="text"
+                value="Supernatural"
+              />
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Genres"
+              >
+                Genres
+              </span>
+              <input
+                aria-label="Type in genres"
+                class="contentDisplayEditFieldInput form-control"
+                type="text"
+                value="Drama | Action | Supernatural"
+              />
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Rating"
+              >
+                Rating
+              </span>
+              <input
+                aria-label="Type in rating"
+                class="contentDisplayEditFieldInput form-control"
+                type="text"
+                value="8.4"
+              />
+            </div>
+          </div>
+          <div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Network"
+              >
+                Network
+              </span>
+              <input
+                aria-label="Type in network"
+                class="contentDisplayEditFieldInput form-control"
+                type="text"
+                value="The CW"
+              />
+            </div>
+            <div
+              class="contentDisplayEditField"
+            >
+              <span
+                class="contentDisplayEditFieldLabel IssueLabel bg-blue text-white"
+                title="Label: Status"
+              >
+                Status
+              </span>
+              <input
+                aria-label="Type in status"
+                class="contentDisplayEditFieldInput form-control"
+                type="text"
+                value="Ended"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            classname="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentColor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

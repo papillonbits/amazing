@@ -1,0 +1,45 @@
+@import '~@papillonbits/css/build/primer/support/mixins/layout.scss';
+@import '../../../index.scss';
+
+.container {
+  @include container;
+}
+
+.alert {
+  margin-bottom: -20px;
+}
+
+.content {
+  &Display {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+
+    &Edit {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      margin: 10px 0 20px;
+
+      @include breakpoint(xl) {
+        flex-direction: row;
+      }
+
+      &Field {
+        display: flex;
+        margin-top: 5px;
+
+        &Label {
+          margin-right: 5px;
+          padding: 5px;
+          border-radius: 6px;
+          min-width: 300px;
+        }
+
+        &Input {
+          min-width: 300px;
+        }
+      }
+    }
+  }
+}

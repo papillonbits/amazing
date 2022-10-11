@@ -1,0 +1,1 @@
+export { InfoShowTemplate } from './InfoShowTemplate'
