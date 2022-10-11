@@ -1,0 +1,716 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListShowTemplate /> Render must match regular() 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            classname="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentColor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+    <div
+      class="navigator"
+    >
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          List Shows
+        </div>
+      </div>
+      <div
+        class="tabnav"
+      >
+        <nav
+          aria-label="List Shows"
+          class="tabnav-tabs"
+        >
+          <a
+            class="tabnav-tab"
+            href="/list"
+          >
+            List Shows
+          </a>
+          <a
+            aria-current="page"
+            class="tabnav-tab"
+            href="/info"
+          >
+            Info Shows
+          </a>
+        </nav>
+      </div>
+      <div
+        class="navigatorHeading Subhead"
+      >
+        <div
+          class="Subhead-heading"
+        >
+          Info Shows
+        </div>
+      </div>
+    </div>
+    <div
+      class="content"
+    >
+      <div
+        class="contentDisplay"
+      >
+        <div
+          class="contentDisplaySearch"
+        >
+          <div
+            class="contentDisplaySearchPart"
+          >
+            <div
+              class="contentDisplaySearchPartField"
+            >
+              <div
+                class="contentDisplaySearchPartFieldDropdown"
+              >
+                <details
+                  class="dropdown details-reset details-overlay d-inline-block"
+                >
+                  <summary
+                    aria-haspopup="false"
+                    class="btn"
+                  >
+                    <div
+                      class="d-flex flex-justify-between flex-items-center"
+                    >
+                      <div>
+                        Drama
+                      </div>
+                       
+                      <div
+                        class="dropdown-caret"
+                      />
+                    </div>
+                  </summary>
+                  <ul
+                    class="dropdown-menu dropdown-menu-se width-full"
+                  >
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Select Show Genre
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Action
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Adult
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Adventure
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Anime
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Children
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Comedy
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Crime
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        DIY
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        aria-current="page"
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Drama
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Espionage
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Family
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Fantasy
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Food
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        History
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Horror
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Legal
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Medical
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Music
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Mystery
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Nature
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Romance
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Science-Fiction
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Sports
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Supernatural
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Thriller
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Travel
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        War
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Western
+                      </a>
+                    </li>
+                  </ul>
+                </details>
+              </div>
+            </div>
+            <div
+              class="contentDisplaySearchPartField"
+            >
+              <input
+                aria-label="Type in name"
+                class="contentDisplaySearchPartFieldInput form-control"
+                placeholder="Type name to search."
+                type="text"
+                value="super"
+              />
+            </div>
+          </div>
+          <div
+            class="contentDisplaySearchPart"
+          >
+            <div
+              class="contentDisplaySearchPartField"
+            >
+              <div
+                class="contentDisplaySearchPartFieldDropdown"
+              >
+                <details
+                  class="dropdown details-reset details-overlay d-inline-block"
+                >
+                  <summary
+                    aria-haspopup="false"
+                    class="btn"
+                  >
+                    <div
+                      class="d-flex flex-justify-between flex-items-center"
+                    >
+                      <div>
+                        7+
+                      </div>
+                       
+                      <div
+                        class="dropdown-caret"
+                      />
+                    </div>
+                  </summary>
+                  <ul
+                    class="dropdown-menu dropdown-menu-se width-full"
+                  >
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        Select Rating
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        2+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        3+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        4+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        5+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        6+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        aria-current="page"
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        7+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        8+
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#url"
+                      >
+                        9+
+                      </a>
+                    </li>
+                  </ul>
+                </details>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav
+          aria-label="Pagination Top"
+          class="contentDisplayPagination paginate-container"
+        >
+          <div
+            class="pagination d-flex"
+          >
+            <span
+              aria-disabled="true"
+            >
+              &lt;
+            </span>
+            <span>
+              Viewing 1 to 1
+            </span>
+            <span
+              aria-disabled="true"
+            >
+              &gt;
+            </span>
+          </div>
+        </nav>
+        <div
+          class="contentDisplayGridListShows"
+        >
+          <div
+            class="d-flex flex-row flex-items-start bg-blue-light border"
+          >
+            <div
+              class="h6 d-flex flex-row p-2 css-truncate css-truncate-overflow item col-12 flex-justify-between"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="d-flex flex-justify-between width-full"
+              >
+                <div
+                  class="css-truncate css-truncate-overflow"
+                >
+                  Name
+                </div>
+                <div
+                  class="d-flex flex-items-start ml-1"
+                >
+                  <span
+                    class="ml-1 text-gray-light"
+                  >
+                     |
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="h6 d-flex flex-row p-2 css-truncate css-truncate-overflow item col-12 flex-justify-between"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="d-flex flex-justify-between width-full"
+              >
+                <div
+                  class="css-truncate css-truncate-overflow"
+                >
+                  Genres
+                </div>
+                <div
+                  class="d-flex flex-items-start ml-1"
+                >
+                  <span
+                    class="ml-1 text-gray-light"
+                  >
+                     |
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="h6 d-flex flex-row p-2 css-truncate css-truncate-overflow item col-12 flex-justify-between"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="d-flex flex-justify-between width-full"
+              >
+                <div
+                  class="css-truncate css-truncate-overflow"
+                >
+                  Rating
+                </div>
+                <div
+                  class="d-flex flex-items-start ml-1"
+                >
+                  <span
+                    class="ml-1 text-gray-light"
+                  >
+                     |
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="h6 d-flex flex-row p-2 css-truncate css-truncate-overflow item col-12 flex-justify-between"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="d-flex flex-justify-between width-full"
+              >
+                <div
+                  class="css-truncate css-truncate-overflow"
+                >
+                  Network
+                </div>
+                <div
+                  class="d-flex flex-items-start ml-1"
+                >
+                  <span
+                    class="ml-1 text-gray-light"
+                  >
+                     |
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              class="h6 d-flex flex-row p-2 css-truncate css-truncate-overflow item col-12 flex-justify-between"
+              role="button"
+              tabindex="0"
+            >
+              <div
+                class="d-flex flex-justify-between width-full"
+              >
+                <div
+                  class="css-truncate css-truncate-overflow"
+                >
+                  Status
+                </div>
+                <div
+                  class="d-flex flex-items-start ml-1"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="d-flex flex-row flex-items-start border item row"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="d-flex flex-row p-2 css-truncate css-truncate-overflow no-wrap col-12 flex-justify-start"
+            >
+              <div
+                class="css-truncate css-truncate-overflow"
+              >
+                Supernatural
+              </div>
+            </div>
+            <div
+              class="d-flex flex-row p-2 css-truncate css-truncate-overflow no-wrap col-12 flex-justify-start"
+            >
+              <div
+                class="css-truncate css-truncate-overflow"
+              >
+                Drama | Action | Supernatural
+              </div>
+            </div>
+            <div
+              class="d-flex flex-row p-2 css-truncate css-truncate-overflow no-wrap col-12 flex-justify-start"
+            >
+              <div
+                class="css-truncate css-truncate-overflow"
+              >
+                8.4
+              </div>
+            </div>
+            <div
+              class="d-flex flex-row p-2 css-truncate css-truncate-overflow no-wrap col-12 flex-justify-start"
+            >
+              <div
+                class="css-truncate css-truncate-overflow"
+              >
+                The CW
+              </div>
+            </div>
+            <div
+              class="d-flex flex-row p-2 css-truncate css-truncate-overflow no-wrap col-12 flex-justify-start"
+            >
+              <div
+                class="css-truncate css-truncate-overflow"
+              >
+                Ended
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav
+          aria-label="Pagination Bottom"
+          class="contentDisplayPagination paginate-container"
+        >
+          <div
+            class="pagination d-flex"
+          >
+            <span
+              aria-disabled="true"
+            >
+              &lt;
+            </span>
+            <span>
+              Viewing 1 to 1
+            </span>
+            <span
+              aria-disabled="true"
+            >
+              &gt;
+            </span>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div
+      class="alert"
+    >
+      <div
+        class="flash-messages"
+      >
+        <div
+          class="flash flash-success"
+        >
+          <mock-file
+            aria-hidden="true"
+            classname="mr-2"
+            height="16"
+            role="img"
+            style="display: inline-block; fill: currentColor; user-select: none; vertical-align: text-bottom;"
+            viewbox="0 0 16 16"
+            width="16"
+          />
+          Ready...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
