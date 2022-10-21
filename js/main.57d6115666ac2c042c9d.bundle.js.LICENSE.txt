@@ -5,7 +5,7 @@
 */
 
 /*!
- * @project        @papillonbits/amazing-core-microsite
+ * @project        amazing
  * @name           main.57d6115666ac2c042c9d.bundle.js
  * @author         MTS
  * @copyright      Copyright (c) 2022 MTS
