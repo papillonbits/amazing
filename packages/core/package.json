@@ -1,8 +1,7 @@
 {
   "name": "@papillonbits/amazing-core-microsite",
-  "version": "1.0.0",
   "description": "Amazing Core Microsite",
-  "homepage": "https://github.com/papillonbits/amazing/tree/master/packages/core",
+  "homepage": "https://github.com/papillonbits/amazing/tree/master/packages/core#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/papillonbits/amazing.git",
@@ -15,10 +14,6 @@
   "keywords": [
     "amazing core microsite"
   ],
-  "author": {
-    "name": "MTS",
-    "url": "https://github.com/mts"
-  },
   "scripts": {
     "clean-up": "rm -rf build node_modules package-lock.json",
     "install-packages": "npm install",

@@ -1,4 +1,4 @@
-import { BrowserRouter } from 'react-router-dom'
+import { MemoryRouter } from 'react-router-dom'
 import { withTests } from '@storybook/addon-jest'
 import { AsyncNotFoundPage } from '../AsyncNotFoundPage'
 import { NotFoundPage } from '../NotFoundPage'
@@ -11,22 +11,23 @@ const location = {
 export default {
   title: 'Amazing/Page/NotFoundPage',
   component: NotFoundPage,
-  decorators: [
-    (Story) => (
-      <BrowserRouter>
-        <Story />
-      </BrowserRouter>
-    ),
-    withTests({ results }),
-  ],
+  decorators: [withTests({ results })],
   parameters: { jest: ['NotFoundPage.int.test.js'] },
   excludeStories: ['custom'],
 }
 
 export function async() {
-  return <AsyncNotFoundPage location={location} />
+  return (
+    <MemoryRouter>
+      <AsyncNotFoundPage location={location} />
+    </MemoryRouter>
+  )
 }
 
 export function regular() {
-  return <NotFoundPage location={location} />
+  return (
+    <MemoryRouter>
+      <NotFoundPage location={location} />
+    </MemoryRouter>
+  )
 }
