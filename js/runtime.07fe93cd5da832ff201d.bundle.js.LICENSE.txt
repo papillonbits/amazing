@@ -2,5 +2,5 @@
  * @project        amazing
  * @name           runtime.07fe93cd5da832ff201d.bundle.js
  * @author         MTS
- * @copyright      Copyright (c) 2022 MTS
+ * @copyright      Copyright (c) 2023 MTS
  */
