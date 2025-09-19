@@ -1,4 +1,4 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
 
 exports[`<InfoShowPage /> Render must match async() 1`] = `<div />`;
 
@@ -50,6 +50,7 @@ exports[`<InfoShowPage /> Render must match regular() 1`] = `
         >
           <a
             class="tabnav-tab"
+            data-discover="true"
             href="/list"
           >
             List Shows
@@ -57,6 +58,7 @@ exports[`<InfoShowPage /> Render must match regular() 1`] = `
           <a
             aria-current="page"
             class="tabnav-tab"
+            data-discover="true"
             href="/info"
           >
             Info Shows
