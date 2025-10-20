@@ -1,0 +1,6 @@
+/*!
+ * @project        amazing
+ * @name           runtime.f03c175018e61df5a819.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2025 MTS
+ */
