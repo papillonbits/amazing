@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react'
-import { defaultProps, propTypes } from './ListShowPage.prop'
+import { propTypes } from './ListShowPage.prop'
 
 const LazyListShowPage = lazy(() => import('./ListShowPage'))
 
@@ -10,7 +10,5 @@ export function AsyncListShowPage() {
     </Suspense>
   )
 }
-
-AsyncListShowPage.defaultProps = defaultProps
 
 AsyncListShowPage.propTypes = propTypes

@@ -1,6 +1,6 @@
 import { primer } from '@papillonbits/components'
 import { Navigator } from '../../molecule/Navigator'
-import { defaultProps, propTypes } from './InfoShowTemplate.prop'
+import { propTypes } from './InfoShowTemplate.prop'
 import { useInfoShowState } from './InfoShowTemplate.hook'
 import styles from './InfoShowTemplate.scss'
 
@@ -99,7 +99,5 @@ export function InfoShowTemplate() {
     </div>
   )
 }
-
-InfoShowTemplate.defaultProps = defaultProps
 
 InfoShowTemplate.propTypes = propTypes

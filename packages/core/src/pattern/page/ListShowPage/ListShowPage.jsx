@@ -1,11 +1,9 @@
 import { ListShowTemplate } from '../../template/ListShowTemplate'
-import { defaultProps, propTypes } from './ListShowPage.prop'
+import { propTypes } from './ListShowPage.prop'
 
 export function ListShowPage() {
   return <ListShowTemplate />
 }
-
-ListShowPage.defaultProps = defaultProps
 
 ListShowPage.propTypes = propTypes
 

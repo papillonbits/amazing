@@ -1,6 +1,6 @@
 import { primer } from '@papillonbits/components'
 import { Navigator } from '../../molecule/Navigator'
-import { defaultProps, propTypes } from './ListShowTemplate.prop'
+import { propTypes } from './ListShowTemplate.prop'
 import { useListShowState } from './ListShowTemplate.hook'
 import styles from './ListShowTemplate.scss'
 
@@ -131,7 +131,5 @@ export function ListShowTemplate() {
     </div>
   )
 }
-
-ListShowTemplate.defaultProps = defaultProps
 
 ListShowTemplate.propTypes = propTypes

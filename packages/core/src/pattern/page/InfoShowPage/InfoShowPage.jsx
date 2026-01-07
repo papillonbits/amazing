@@ -1,11 +1,9 @@
 import { InfoShowTemplate } from '../../template/InfoShowTemplate'
-import { defaultProps, propTypes } from './InfoShowPage.prop'
+import { propTypes } from './InfoShowPage.prop'
 
 export function InfoShowPage() {
   return <InfoShowTemplate />
 }
-
-InfoShowPage.defaultProps = defaultProps
 
 InfoShowPage.propTypes = propTypes
 
